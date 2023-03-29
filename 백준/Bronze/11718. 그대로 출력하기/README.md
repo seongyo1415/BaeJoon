@@ -31,4 +31,5 @@
  
 
 이렇게 데이터가 더이상 존재하지 않을 때 우리는 EOF (End of File) 즉, 파일의 끝이라 한다. 
- import java.util.Scanner 에서 hasNext()나 hasNextInt()를 사용해 EOF를 구분한다. BufferedReader를 이용하는 경우에는 br.readLine() != null 이런 식으로 정의한다.</p>
+
+import java.util.Scanner 에서 hasNext()나 hasNextInt()를 사용해 EOF를 구분한다. BufferedReader를 이용하는 경우에는 br.readLine() != null 이런 식으로 정의한다.</p>
